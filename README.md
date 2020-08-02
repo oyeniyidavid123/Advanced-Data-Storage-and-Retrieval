@@ -30,3 +30,5 @@ Next step is to create a weather API to do a climate analysis based on the data 
 
 ![image](https://user-images.githubusercontent.com/57304123/89113546-7df14b80-d427-11ea-80ef-8ac8a5729267.png)
 
+The final step was to create a Flask app to simulate the generation of api calls from a SQLite database. This application is run on the local host.
+
