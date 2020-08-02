@@ -126,7 +126,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   * Use the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
 
-    ![temperature](Images/temperature.png)
+![image](https://user-images.githubusercontent.com/57304123/89113519-1b984b00-d427-11ea-96f3-4e1615e04bfb.png)
 
 ### Daily Rainfall Average
 
