@@ -142,7 +142,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
-  ![daily-normals](Images/daily-normals.png)
+![image](https://user-images.githubusercontent.com/57304123/89113546-7df14b80-d427-11ea-80ef-8ac8a5729267.png)
 
 ### Copyright
 
